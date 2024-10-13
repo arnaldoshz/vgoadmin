@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3335a6c25",
+  "policyUUID": "335a6c25",
+  "bucketName": "vgoadmin00dc150d83d042408e0bb1eb7d1a1161",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
